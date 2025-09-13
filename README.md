@@ -1,2 +1,15 @@
 # Python-practice
-Here I practice all i learn in python
+This repository contains my daily Python practice files.
+Each file represents what i learned on that day (Day1-DayX)
+
+## Topics Covered So Far
+- Day 1: Setup & Hello World
+- Day 2: Variables & Data Types
+- Day 3: User Input
+- Day 4: If/Else Conditions
+- Day 5: Loops
+- Day 6: Lists
+- Day 7: Functions
+
+## Goal
+To build a strong foundation in Python by practicing daily and uploading progress here.
