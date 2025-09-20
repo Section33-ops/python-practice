@@ -10,6 +10,10 @@ Each file represents what i learned on that day (Day1-DayX)
 - Day 5: Loops
 - Day 6: Lists
 - Day 7: Functions
+- Day 8: Dictionaries
+- Day 9: Review Basics
+- Day 10: Functions + Return Values
+- Day 11: While Loops + Guessing Game
 
 ## Goal
 To build a strong foundation in Python by practicing daily and uploading progress here.
