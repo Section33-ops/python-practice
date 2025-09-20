@@ -14,6 +14,8 @@ Each file represents what i learned on that day (Day1-DayX)
 - Day 9: Review Basics
 - Day 10: Functions + Return Values
 - Day 11: While Loops + Guessing Game
+- Day 12: Classes & Objects Intro
+- Day 13: Calculator Program
 
 ## Goal
 To build a strong foundation in Python by practicing daily and uploading progress here.
