@@ -17,6 +17,8 @@ Each file represents what i learned on that day (Day1-DayX)
 - Day 12: Classes & Objects Intro
 - Day 13: Calculator Program
 - Day 14: OOP constructors and methods
+- Day 15: OOP inheritance
+- Day 16: File handling
 
 ## Goal
 To build a strong foundation in Python by practicing daily and uploading progress here.
