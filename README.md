@@ -20,6 +20,7 @@ Each file represents what i learned on that day (Day1-DayX)
 - Day 15: OOP inheritance
 - Day 16: File handling
 - Day 17: Error handling
+- Day 18: Modules and Packages
 
 ## Goal
 To build a strong foundation in Python by practicing daily and uploading progress here.
